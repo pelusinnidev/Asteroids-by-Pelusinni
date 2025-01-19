@@ -147,11 +147,6 @@ This project is open for improvements! Whether you're fixing bugs, adding new fe
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📫 Contact & Support
-
-- **GitHub Issues**: For bug reports and feature requests
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-
 ## 🎓 Academic Context
 
 This project was developed at La Salle Gràcia as part of the programming curriculum. It demonstrates practical applications of:
@@ -160,17 +155,6 @@ This project was developed at La Salle Gràcia as part of the programming curric
 - Physics Simulation
 - User Interface Design
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
-**Created with ❤️ by PelusinniDev**  
-**La Salle Gràcia - 2023**
-
-</div>
-
-Check out the project on [GitHub](https://github.com/pelusinnidev/Pols-Asteroids) for more details and updates!
+**Created with ❤️ by Pelusinni**  
